@@ -9,10 +9,10 @@
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by yuta!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.com/invite/QAb6qNcQkN                   ║
+║  
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
@@ -23,7 +23,7 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["1219624638628233247", ""], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "00fbff",
@@ -41,10 +41,10 @@ module.exports = {
 
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
+║  ## Created by yuta!                                                ║
 ║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
+║  ## DISCORD :  https://discord.com/invite/QAb6qNcQkN                   ║
+║ 
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
