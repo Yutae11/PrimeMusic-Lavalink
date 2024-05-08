@@ -119,7 +119,7 @@ function initializePlayer(client) {
           
             message.edit({ components: [disabledRow] })
                 .catch(console.error);
-        }, 180000);
+        }, 240000);
         collector.on('collect', async i => {
             await i.deferUpdate();
             if (i.customId === 'loopQueue') {
